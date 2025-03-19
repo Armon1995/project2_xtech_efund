@@ -1,0 +1,101 @@
+news_publish_time,news_title,s3_url,news_url
+2025-03-29,Major Banks Report Strong Earnings Despite Market Turbulence,https://example-bucket.s3.amazonaws.com/news_1.pdf,https://news_website/news_1.pdf
+2025-06-01,European Markets Rally on Strong Economic Data,https://example-bucket.s3.amazonaws.com/news_2.pdf,https://news_website/news_2.pdf
+2025-01-10,Bank of Japan Maintains Ultra-Loose Monetary Policy,https://example-bucket.s3.amazonaws.com/news_3.pdf,https://news_website/news_3.pdf
+2024-04-20,Tech Startups Struggle as VC Funding Dries Up,https://example-bucket.s3.amazonaws.com/news_4.pdf,https://news_website/news_4.pdf
+2024-02-12,European Central Bank Maintains Interest Rates,https://example-bucket.s3.amazonaws.com/news_5.pdf,https://news_website/news_5.pdf
+2025-05-13,US Unemployment Rate Remains Steady at 3.5%,https://example-bucket.s3.amazonaws.com/news_6.pdf,https://news_website/news_6.pdf
+2024-01-03,Real Estate Market Slows as Mortgage Rates Rise,https://example-bucket.s3.amazonaws.com/news_7.pdf,https://news_website/news_7.pdf
+2024-03-19,US Treasury Yields Rise Amid Inflation Concerns,https://example-bucket.s3.amazonaws.com/news_8.pdf,https://news_website/news_8.pdf
+2025-05-10,China’s GDP Growth Slows Amid Economic Uncertainty,https://example-bucket.s3.amazonaws.com/news_9.pdf,https://news_website/news_9.pdf
+2025-12-03,Energy Sector Outperforms as Oil and Gas Prices Climb,https://example-bucket.s3.amazonaws.com/news_10.pdf,https://news_website/news_10.pdf
+2025-12-08,Retail Giants Report Mixed Earnings as Consumer Spending Shifts,https://example-bucket.s3.amazonaws.com/news_11.pdf,https://news_website/news_11.pdf
+2024-08-19,US Budget Deficit Widens Amid Increased Government Spending,https://example-bucket.s3.amazonaws.com/news_12.pdf,https://news_website/news_12.pdf
+2024-11-03,Federal Reserve Chair Signals Policy Shift in Upcoming Meeting,https://example-bucket.s3.amazonaws.com/news_13.pdf,https://news_website/news_13.pdf
+2025-01-23,Private Equity Firms Eye Distressed Assets for Investment,https://example-bucket.s3.amazonaws.com/news_14.pdf,https://news_website/news_14.pdf
+2025-10-01,Tech Sector Leads Market Gains as AI Investments Increase,https://example-bucket.s3.amazonaws.com/news_15.pdf,https://news_website/news_15.pdf
+2024-09-12,Stock Market Rallies as Tech Shares Surge,https://example-bucket.s3.amazonaws.com/news_16.pdf,https://news_website/news_16.pdf
+2025-05-01,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_17.pdf,https://news_website/news_17.pdf
+2024-11-26,Federal Reserve Signals Possible Interest Rate Cut,https://example-bucket.s3.amazonaws.com/news_18.pdf,https://news_website/news_18.pdf
+2025-09-29,Retail Giants Report Mixed Earnings as Consumer Spending Shifts,https://example-bucket.s3.amazonaws.com/news_19.pdf,https://news_website/news_19.pdf
+2024-05-05,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_20.pdf,https://news_website/news_20.pdf
+2024-07-10,Global Supply Chain Issues Persist in Manufacturing Sector,https://example-bucket.s3.amazonaws.com/news_21.pdf,https://news_website/news_21.pdf
+2025-06-10,Retail Giants Report Mixed Earnings as Consumer Spending Shifts,https://example-bucket.s3.amazonaws.com/news_22.pdf,https://news_website/news_22.pdf
+2025-02-16,US Job Market Shows Signs of Slowing Growth,https://example-bucket.s3.amazonaws.com/news_23.pdf,https://news_website/news_23.pdf
+2025-03-23,Crypto Regulations Tighten as Governments Step In,https://example-bucket.s3.amazonaws.com/news_24.pdf,https://news_website/news_24.pdf
+2025-06-02,S&P 500 Posts Best Monthly Gain Since 2020,https://example-bucket.s3.amazonaws.com/news_25.pdf,https://news_website/news_25.pdf
+2025-04-07,Financial Markets Brace for Key Economic Reports This Week,https://example-bucket.s3.amazonaws.com/news_26.pdf,https://news_website/news_26.pdf
+2024-11-16,Stock Market Rallies as Tech Shares Surge,https://example-bucket.s3.amazonaws.com/news_27.pdf,https://news_website/news_27.pdf
+2024-01-11,Wall Street Analysts Predict Strong Earnings for Q2,https://example-bucket.s3.amazonaws.com/news_28.pdf,https://news_website/news_28.pdf
+2024-08-03,Tech Startups Struggle as VC Funding Dries Up,https://example-bucket.s3.amazonaws.com/news_29.pdf,https://news_website/news_29.pdf
+2024-09-04,European Markets Rally on Strong Economic Data,https://example-bucket.s3.amazonaws.com/news_30.pdf,https://news_website/news_30.pdf
+2024-12-10,Corporate Mergers and Acquisitions Hit Record Levels,https://example-bucket.s3.amazonaws.com/news_31.pdf,https://news_website/news_31.pdf
+2024-02-07,China's Export Growth Slows Amid Trade Tensions,https://example-bucket.s3.amazonaws.com/news_32.pdf,https://news_website/news_32.pdf
+2025-05-05,Tech Startups Struggle as VC Funding Dries Up,https://example-bucket.s3.amazonaws.com/news_33.pdf,https://news_website/news_33.pdf
+2025-03-20,Federal Reserve Chair Signals Policy Shift in Upcoming Meeting,https://example-bucket.s3.amazonaws.com/news_34.pdf,https://news_website/news_34.pdf
+2025-12-04,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_35.pdf,https://news_website/news_35.pdf
+2024-09-05,Global Supply Chain Issues Persist in Manufacturing Sector,https://example-bucket.s3.amazonaws.com/news_36.pdf,https://news_website/news_36.pdf
+2024-10-07,Housing Market Faces Headwinds as Interest Rates Climb,https://example-bucket.s3.amazonaws.com/news_37.pdf,https://news_website/news_37.pdf
+2024-09-03,Bitcoin Hits New All-Time High Amid Crypto Boom,https://example-bucket.s3.amazonaws.com/news_38.pdf,https://news_website/news_38.pdf
+2025-08-08,US Treasury Yields Rise Amid Inflation Concerns,https://example-bucket.s3.amazonaws.com/news_39.pdf,https://news_website/news_39.pdf
+2024-12-06,Gold Prices Climb as Investors Seek Safe Haven,https://example-bucket.s3.amazonaws.com/news_40.pdf,https://news_website/news_40.pdf
+2025-11-19,Federal Reserve Signals Possible Interest Rate Cut,https://example-bucket.s3.amazonaws.com/news_41.pdf,https://news_website/news_41.pdf
+2024-04-11,US Dollar Strengthens Against Major Currencies,https://example-bucket.s3.amazonaws.com/news_42.pdf,https://news_website/news_42.pdf
+2025-04-18,Corporate Mergers and Acquisitions Hit Record Levels,https://example-bucket.s3.amazonaws.com/news_43.pdf,https://news_website/news_43.pdf
+2024-07-27,Bank of Japan Maintains Ultra-Loose Monetary Policy,https://example-bucket.s3.amazonaws.com/news_44.pdf,https://news_website/news_44.pdf
+2025-01-03,Consumer Confidence Rises as Inflation Concerns Ease,https://example-bucket.s3.amazonaws.com/news_45.pdf,https://news_website/news_45.pdf
+2025-10-11,Consumer Confidence Rises as Inflation Concerns Ease,https://example-bucket.s3.amazonaws.com/news_46.pdf,https://news_website/news_46.pdf
+2024-10-23,Real Estate Prices in Major Cities Continue to Rise,https://example-bucket.s3.amazonaws.com/news_47.pdf,https://news_website/news_47.pdf
+2024-05-04,Energy Sector Outperforms as Oil and Gas Prices Climb,https://example-bucket.s3.amazonaws.com/news_48.pdf,https://news_website/news_48.pdf
+2025-01-03,Federal Reserve Hints at Possible Interest Rate Hike,https://example-bucket.s3.amazonaws.com/news_49.pdf,https://news_website/news_49.pdf
+2024-01-15,Central Banks Around the World Adjust Monetary Policies,https://example-bucket.s3.amazonaws.com/news_50.pdf,https://news_website/news_50.pdf
+2024-10-04,Tech Giants Report Record Profits Amid AI Boom,https://example-bucket.s3.amazonaws.com/news_51.pdf,https://news_website/news_51.pdf
+2024-06-11,Bitcoin Hits New All-Time High Amid Crypto Boom,https://example-bucket.s3.amazonaws.com/news_52.pdf,https://news_website/news_52.pdf
+2024-06-17,European Central Bank Maintains Interest Rates,https://example-bucket.s3.amazonaws.com/news_53.pdf,https://news_website/news_53.pdf
+2025-07-17,Automakers Face Supply Chain Challenges Amid Chip Shortages,https://example-bucket.s3.amazonaws.com/news_54.pdf,https://news_website/news_54.pdf
+2025-03-23,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_55.pdf,https://news_website/news_55.pdf
+2025-10-11,Crude Oil Prices Surge as OPEC Announces Production Cuts,https://example-bucket.s3.amazonaws.com/news_56.pdf,https://news_website/news_56.pdf
+2024-11-23,Real Estate Market Slows as Mortgage Rates Rise,https://example-bucket.s3.amazonaws.com/news_57.pdf,https://news_website/news_57.pdf
+2024-09-12,US Inflation Rate Falls to Lowest Level in Two Years,https://example-bucket.s3.amazonaws.com/news_58.pdf,https://news_website/news_58.pdf
+2025-11-22,Goldman Sachs Revises GDP Growth Forecast for 2025,https://example-bucket.s3.amazonaws.com/news_59.pdf,https://news_website/news_59.pdf
+2025-04-24,Real Estate Prices in Major Cities Continue to Rise,https://example-bucket.s3.amazonaws.com/news_60.pdf,https://news_website/news_60.pdf
+2024-11-03,Bank of Japan Maintains Ultra-Loose Monetary Policy,https://example-bucket.s3.amazonaws.com/news_61.pdf,https://news_website/news_61.pdf
+2024-12-26,Crude Oil Prices Surge as OPEC Announces Production Cuts,https://example-bucket.s3.amazonaws.com/news_62.pdf,https://news_website/news_62.pdf
+2024-05-04,Central Banks Face Challenges Balancing Inflation and Growth,https://example-bucket.s3.amazonaws.com/news_63.pdf,https://news_website/news_63.pdf
+2025-09-12,Consumer Confidence Rises as Inflation Concerns Ease,https://example-bucket.s3.amazonaws.com/news_64.pdf,https://news_website/news_64.pdf
+2025-12-20,Investors Brace for Upcoming Earnings Season,https://example-bucket.s3.amazonaws.com/news_65.pdf,https://news_website/news_65.pdf
+2025-12-31,Federal Reserve Chair Signals Policy Shift in Upcoming Meeting,https://example-bucket.s3.amazonaws.com/news_66.pdf,https://news_website/news_66.pdf
+2024-06-05,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_67.pdf,https://news_website/news_67.pdf
+2024-11-10,US Job Market Shows Signs of Slowing Growth,https://example-bucket.s3.amazonaws.com/news_68.pdf,https://news_website/news_68.pdf
+2024-05-26,Corporate Mergers and Acquisitions Hit Record Levels,https://example-bucket.s3.amazonaws.com/news_69.pdf,https://news_website/news_69.pdf
+2024-07-24,S&P 500 Posts Best Monthly Gain Since 2020,https://example-bucket.s3.amazonaws.com/news_70.pdf,https://news_website/news_70.pdf
+2025-10-25,Goldman Sachs Revises GDP Growth Forecast for 2025,https://example-bucket.s3.amazonaws.com/news_71.pdf,https://news_website/news_71.pdf
+2025-07-02,Federal Reserve Signals Possible Interest Rate Cut,https://example-bucket.s3.amazonaws.com/news_72.pdf,https://news_website/news_72.pdf
+2025-04-07,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_73.pdf,https://news_website/news_73.pdf
+2025-07-02,Tech Giants Report Record Profits Amid AI Boom,https://example-bucket.s3.amazonaws.com/news_74.pdf,https://news_website/news_74.pdf
+2024-09-08,Real Estate Market Slows as Mortgage Rates Rise,https://example-bucket.s3.amazonaws.com/news_75.pdf,https://news_website/news_75.pdf
+2024-07-13,US Dollar Strengthens Against Major Currencies,https://example-bucket.s3.amazonaws.com/news_76.pdf,https://news_website/news_76.pdf
+2025-07-26,Retail Sales Surge Ahead of Holiday Shopping Season,https://example-bucket.s3.amazonaws.com/news_77.pdf,https://news_website/news_77.pdf
+2024-05-12,Retail Giants Report Mixed Earnings as Consumer Spending Shifts,https://example-bucket.s3.amazonaws.com/news_78.pdf,https://news_website/news_78.pdf
+2024-07-14,S&P 500 Posts Best Monthly Gain Since 2020,https://example-bucket.s3.amazonaws.com/news_79.pdf,https://news_website/news_79.pdf
+2025-05-06,Crypto Regulations Tighten as Governments Step In,https://example-bucket.s3.amazonaws.com/news_80.pdf,https://news_website/news_80.pdf
+2024-07-22,Federal Reserve Signals Possible Interest Rate Cut,https://example-bucket.s3.amazonaws.com/news_81.pdf,https://news_website/news_81.pdf
+2024-10-13,Gold Prices Climb as Investors Seek Safe Haven,https://example-bucket.s3.amazonaws.com/news_82.pdf,https://news_website/news_82.pdf
+2024-10-06,US Treasury Yields Rise Amid Inflation Concerns,https://example-bucket.s3.amazonaws.com/news_83.pdf,https://news_website/news_83.pdf
+2024-02-25,Global Investors Eye Emerging Markets for Growth Opportunities,https://example-bucket.s3.amazonaws.com/news_84.pdf,https://news_website/news_84.pdf
+2024-09-04,Bank of Japan Maintains Ultra-Loose Monetary Policy,https://example-bucket.s3.amazonaws.com/news_85.pdf,https://news_website/news_85.pdf
+2025-01-16,China's Export Growth Slows Amid Trade Tensions,https://example-bucket.s3.amazonaws.com/news_86.pdf,https://news_website/news_86.pdf
+2024-10-27,Investors Brace for Upcoming Earnings Season,https://example-bucket.s3.amazonaws.com/news_87.pdf,https://news_website/news_87.pdf
+2025-05-29,Global Investors Eye Emerging Markets for Growth Opportunities,https://example-bucket.s3.amazonaws.com/news_88.pdf,https://news_website/news_88.pdf
+2024-03-13,Oil Prices Drop as Supply Concerns Ease,https://example-bucket.s3.amazonaws.com/news_89.pdf,https://news_website/news_89.pdf
+2024-05-24,Bank of Japan Maintains Ultra-Loose Monetary Policy,https://example-bucket.s3.amazonaws.com/news_90.pdf,https://news_website/news_90.pdf
+2025-05-13,Housing Market Faces Headwinds as Interest Rates Climb,https://example-bucket.s3.amazonaws.com/news_91.pdf,https://news_website/news_91.pdf
+2024-06-30,Dow Jones Hits Record High on Strong Corporate Earnings,https://example-bucket.s3.amazonaws.com/news_92.pdf,https://news_website/news_92.pdf
+2024-10-01,US Job Market Shows Signs of Slowing Growth,https://example-bucket.s3.amazonaws.com/news_93.pdf,https://news_website/news_93.pdf
+2025-03-29,Real Estate Market Slows as Mortgage Rates Rise,https://example-bucket.s3.amazonaws.com/news_94.pdf,https://news_website/news_94.pdf
+2025-03-24,Bitcoin Hits New All-Time High Amid Crypto Boom,https://example-bucket.s3.amazonaws.com/news_95.pdf,https://news_website/news_95.pdf
+2025-11-09,Federal Reserve Signals Possible Interest Rate Cut,https://example-bucket.s3.amazonaws.com/news_96.pdf,https://news_website/news_96.pdf
+2024-09-05,Bitcoin Hits New All-Time High Amid Crypto Boom,https://example-bucket.s3.amazonaws.com/news_97.pdf,https://news_website/news_97.pdf
+2025-04-19,Bitcoin Hits New All-Time High Amid Crypto Boom,https://example-bucket.s3.amazonaws.com/news_98.pdf,https://news_website/news_98.pdf
+2025-07-29,Goldman Sachs Revises GDP Growth Forecast for 2025,https://example-bucket.s3.amazonaws.com/news_99.pdf,https://news_website/news_99.pdf
+2025-02-08,US Job Market Shows Signs of Slowing Growth,https://example-bucket.s3.amazonaws.com/news_100.pdf,https://news_website/news_100.pdf
